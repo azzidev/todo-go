@@ -1,6 +1,9 @@
 {
   "dependencies": {
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "semantic-ui-react": "^0.88.2",
+    "axios": "^0.21.1",
+    "web-vitals": "^1.0.1"
   }
 }
