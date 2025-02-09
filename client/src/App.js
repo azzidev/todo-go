@@ -10,7 +10,7 @@ function App() {
         <ToDoList />
       </Container>
     </div>    
-  );
+  )
 }
 
 export default App;

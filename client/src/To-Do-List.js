@@ -24,7 +24,7 @@ class ToDoList extends Component{
                     <Header className="header" as="h2" color="lightgreen">TO DO LIST</Header>
                 </div>
             </div>
-        );
+        )
     }
 }
 
