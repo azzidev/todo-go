@@ -13,7 +13,7 @@ class ToDoList extends Component{
             items: [],
         };
     }
-    ComponentDidMount(){
+    componentDidMount(){
         this.getTask();
     }
 
